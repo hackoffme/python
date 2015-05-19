@@ -31,6 +31,7 @@ def sortListEndLeter(l):
         l[i]=l[i][::-1]
     print l
 
+
 def pasteInSortList(l,i):
     print l
     insort(l,i)
